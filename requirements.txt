@@ -135,3 +135,5 @@ wheel==0.42.0
 widgetsnbextension==4.0.9
 win-inet-pton==1.1.0
 zipp==3.17.0
+wandb==0.16.2
+
